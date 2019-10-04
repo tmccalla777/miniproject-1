@@ -1,8 +1,8 @@
 # Welcome to Miniproject-1 Fall 2019 :wave:
-# Group Members
-# Tej Ranu :see_no_evil:
-# Tamara Mccalla :hear_no_evil:	
-# David Tchintchin :speak_no_evil:	
+## Group Members
+### Tej Ranu :see_no_evil:
+### Tamara Mccalla :hear_no_evil:	
+### David Tchintchin :speak_no_evil:	
 # Section - 1 Command - David Tchintchin :speak_no_evil:
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command):point_left:
 
