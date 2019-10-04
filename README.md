@@ -10,17 +10,16 @@
 
 Questions to answer: What is it? Why do you do it? How do you do it?
 
-cd
-mkdir
-cp
-pwd
-mv
-rm
-history
-Home directory and ~
-file paths in linux
-Using the tab key to complete file paths
-Using up and down arrow for history
+1. cd
+2. mkdir
+3. cp
+4. pwd
+5. mv
+6. rm
+7. history
+8. Home directory and file paths in linux
+9. Using the tab key to complete file paths
+10. Using up and down arrow for history
 # Section - 2 Gitflow and Workflow
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20Workflow) :point_left:
 
