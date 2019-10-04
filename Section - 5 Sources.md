@@ -5,7 +5,7 @@
 - *Source 2*
 - *Source 3*
 
-### Section 2 - GitFlow and Workflow - [Link]()
+### Section 2 - GitFlow and Workflow - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20and%20Workflow.md)
 - *Source 1* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - *Source 2*
 - *Source 3*
