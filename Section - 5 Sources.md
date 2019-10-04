@@ -14,3 +14,8 @@
 - *Source 1*
 - *Source 2*
 - *Source 3*
+
+### Section 4 - Improving the productivity and competitiveness of a company - [Link]()
+- *Source 1*
+- *Source 2*
+- *Source 3*
