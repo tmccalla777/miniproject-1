@@ -48,7 +48,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 3.  Adding a collaborator to a Github Repo
 
-# # Section - 4 Improving the productivity and competitiveness of a company
+# Section - 4 Improving the productivity and competitiveness of a company
 
 # Section - 5 Sources
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Sources) :point_left:
