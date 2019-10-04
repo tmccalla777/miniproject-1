@@ -1,10 +1,10 @@
-# Welcome to Miniproject-1 Fall 2019
+# Welcome to Miniproject-1 Fall 2019 
 # Group Members
 # Tej Ranu
 # Tamara Mccalla
 # David Tchintchin
 # Section - 1 Command
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command)
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command) :point_left:
 
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
