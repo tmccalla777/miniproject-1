@@ -4,7 +4,7 @@
 ### Tamara Mccalla :hear_no_evil:	
 ### David Tchintchin :speak_no_evil:	
 # Section - 1 Command - David Tchintchin :speak_no_evil:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command):point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md):point_left:
 
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
@@ -38,7 +38,7 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 11. Status
 12. Master Branch
 # Section - 3 Collaboration - Tamara Mccalla :hear_no_evil:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration.md) :point_left:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
 
