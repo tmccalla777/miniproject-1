@@ -1,4 +1,4 @@
-# Welcome to Miniproject-1 Fall 2019 
+# Welcome to Miniproject-1 Fall 2019 :wave:
 # Group Members
 # Tej Ranu
 # Tamara Mccalla
