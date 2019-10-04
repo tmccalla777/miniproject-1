@@ -1,5 +1,4 @@
 # Sources
-### Section of sources with links 
 
 ### Section 1 - Command - [Link]()
 - *Source 1*: []()
