@@ -19,3 +19,18 @@ Home directory and ~
 file paths in linux
 Using the tab key to complete file paths
 Using up and down arrow for history
+# Section - 2 Gitflow and Workflow
+  Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
+
+Repository
+Clone
+Fork
+Branch
+Commit
+Merge
+Checkout
+Push
+Pull 
+Remote Add / Remove / Show
+Status
+Master Branch
