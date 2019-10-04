@@ -23,7 +23,8 @@ Using the tab key to complete file paths
 Using up and down arrow for history
 # Section - 2 Gitflow and Workflow
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20Workflow)
-  Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
+
+Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 Repository
 Clone
