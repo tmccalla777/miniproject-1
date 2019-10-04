@@ -4,7 +4,7 @@
 # Tamara Mccalla
 # David Tchintchin
 # Section - 1 Command
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command):point_left:
 
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
@@ -38,8 +38,8 @@ Pull
 Remote Add / Remove / Show
 Status
 Master Branch
-# Section - 3 Collaboration :point_left:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration)
+# Section - 3 Collaboration 
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration) :point_left:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
 
@@ -49,5 +49,5 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 3.  Adding a collaborator to a Github Repo
 
-# Section - 4 Sources :point_left:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Sources)
+# Section - 4 Sources
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Sources) :point_left:
