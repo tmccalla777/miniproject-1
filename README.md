@@ -25,18 +25,18 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
-Repository
-Clone
-Fork
-Branch
-Commit
-Merge
-Checkout
-Push
-Pull 
-Remote Add / Remove / Show
-Status
-Master Branch
+1. Repository
+2. Clone
+3. Fork
+4. Branch
+5. Commit
+6. Merge
+7. Checkout
+8. Push
+9. Pull 
+10. Remote Add / Remove / Show
+11. Status
+12. Master Branch
 # Section - 3 Collaboration 
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration) :point_left:
 
