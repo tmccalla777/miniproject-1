@@ -50,3 +50,5 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 # Section - 4 Sources
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Sources) :point_left:
+
+# Section - 5 Improving the productivity and competitiveness of a company
