@@ -6,7 +6,7 @@
 - *Source 3*
 
 ### Section 2 - GitFlow and Workflow - [Link]()
-- *Source 1*
+- *Source 1* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - *Source 2*
 - *Source 3*
 
