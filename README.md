@@ -53,7 +53,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 # Section - 5 Sources
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%205%20Sources.md) :point_left:
 
-**Changelog**
+# Changelog
 - Tej Ranu created new repository
 - Tej Ranu created Section 1,2,3,4 and 5.
 - Tej Ranu uploaded Miniproject 1 image.
