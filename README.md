@@ -1,10 +1,10 @@
 # Welcome to Miniproject-1 Fall 2019 :wave:
-# Group Members
-# Tej Ranu :see_no_evil:
-# Tamara Mccalla :hear_no_evil:	
-# David Tchintchin :speak_no_evil:	
+## Group Members
+### Tej Ranu :see_no_evil:
+### Tamara Mccalla :hear_no_evil:	
+### David Tchintchin :speak_no_evil:	
 # Section - 1 Command - David Tchintchin :speak_no_evil:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command):point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md):point_left:
 
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
 
@@ -21,7 +21,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 9. Using the tab key to complete file paths
 10. Using up and down arrow for history
 # Section - 2 Gitflow and Workflow - Tej Ranu :see_no_evil:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20Workflow) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20and%20Workflow.md) :point_left:
 
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
@@ -38,7 +38,7 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 11. Status
 12. Master Branch
 # Section - 3 Collaboration - Tamara Mccalla :hear_no_evil:
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration.md) :point_left:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
 
@@ -49,8 +49,19 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 3.  Adding a collaborator to a Github Repo
 
 # Section - 4 Improving the productivity and competitiveness of a company
-
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Improving%20the%20productivity%20and%20competitiveness%20of%20a%20company.md) :point_left:
 # Section - 5 Sources
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%204%20Sources) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%205%20Sources.md) :point_left:
 
+# Changelog
+- Tej Ranu created new repository
+- Tej Ranu created Section 1,2,3,4 and 5.
+- Tej Ranu uploaded Miniproject 1 image.
+- Tej Ranu created readme-edit branch 
+- 
+-  
+- 
+- 
 
+# MiniProject-1 Image 
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Annotation%202019-10-04%20165505.png) :point_left:
