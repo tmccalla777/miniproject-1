@@ -1,7 +1,7 @@
 # Sources
 
-### Section 1 - Command - [Link]()
-- *Source 1*: 
+### Section 1 - Command - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md)
+- *Source 1*: https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 - *Source 2*
 - *Source 3*
 
