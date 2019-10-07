@@ -1,7 +1,7 @@
 # Sources
 
 ### Section 1 - Command - [Link]()
-- *Source 1*: []()
+- *Source 1*: 
 - *Source 2*
 - *Source 3*
 
