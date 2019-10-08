@@ -37,5 +37,9 @@
     * This command can remove any file or directory from the file system. 
     * To use this command, enter the command prompt, enter 'rm' and the file name and location and the file will be removed.
 
+7. history command
+    * This 'history' command is used to list the commands previously executed.
+    * This command is used to show which commands the user ran recently. Previously used commands can be executed from the command as well.
+    * To use this command, the user will open the command prompt and simply enter 'history' into the command prompt. To execute a previous command in the history list, the user will type '!' and the number next to the command in the history list.
     
 
