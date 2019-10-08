@@ -3,7 +3,7 @@
 ### Section 1 - Command - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md)
 - *Source 1*: https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 - *Source 2*: https://www.geeksforgeeks.org/cp-command-linux-examples/#targetText=cp%20stands%20for%20copy.,two%20filenames%20in%20its%20arguments.
-- *Source 3*
+- *Source 3*: http://www.linfo.org/home_directory.html#targetText=A%20home%20directory%2C%20also%20called,after%20logging%20into%20the%20system.
 
 ### Section 2 - GitFlow and Workflow - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20and%20Workflow.md)
 - *Source 1* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
