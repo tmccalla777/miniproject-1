@@ -1,7 +1,7 @@
 # Welcome to Miniproject-1 Fall 2019 :wave:
 ## Group Members
 ### Tej Ranu :see_no_evil:
-### Tamara Mccalla :hear_no_evil:	
+### Daniel Zehirov :hear_no_evil:	
 ### David Tchintchin :speak_no_evil:	
 # Section - 1 Command - David Tchintchin :speak_no_evil:
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md):point_left:
@@ -37,7 +37,7 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 10. Remote Add / Remove / Show
 11. Status
 12. Master Branch
-# Section - 3 Collaboration - Tamara Mccalla :hear_no_evil:
+# Section - 3 Collaboration - Daniek Zehirov :hear_no_evil:
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration.md) :point_left:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
