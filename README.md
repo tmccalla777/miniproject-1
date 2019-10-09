@@ -64,4 +64,4 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - 
 
 # MiniProject-1 Image 
-[Link](https://github.com/tejranu/miniproject-1/blob/master/Annotation%202019-10-04%20165505.png) :point_left:
+[Link](https://github.com/tejranu/miniproject-1/blob/master/Image/Annotation%202019-10-09%20194707.png) :point_left:
