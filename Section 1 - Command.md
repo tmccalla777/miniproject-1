@@ -58,3 +58,7 @@
     the whole command and file name out manually.
     * The user can use this command by trying to execute a command and then hitting the tab key to get suggestions to the name of the file or directory that is required to perform the operation. 
 
+11. Up and Down Arrows for History
+    * The up and down arrows are the keys used for navigating throught previously ran commands.
+    * This is used to easily return to previous commands and run them. 
+    * The user can use the up and down arrow keys to navigate through the commands in the command prompt. If the command is not the last one ran, the user can press the down arrow and show the commands that we run afterwards.
