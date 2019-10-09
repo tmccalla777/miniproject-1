@@ -58,10 +58,10 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Tej Ranu created Section 1,2,3,4 and 5.
 - Tej Ranu uploaded Miniproject 1 image.
 - Tej Ranu created readme-edit branch 
-- 
--  
-- 
-- 
+- David Tchintchin created new branch
+- David Tchintchin created Section 1
+- David Tchintchin requested a pull
+- Daniek Zehirov created section 3
 
 # MiniProject-1 Image 
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Image/Annotation%202019-10-09%20194707.png) :point_left:
