@@ -52,3 +52,9 @@
     * This is used to locate, manipulate, copy and remove files.
     * You can get the file location by using the 'find' command followed by the name of the file.
 
+10. Tab Key
+    * The tab key is used to complete the command for the user.
+    * This is used to simplify the task of a user by completing the command for them rather than having the user type
+    the whole command and file name out manually.
+    * The user can use this command by trying to execute a command and then hitting the tab key to get suggestions to the name of the file or directory that is required to perform the operation. 
+
