@@ -14,3 +14,12 @@
 # 1. Feature branch workflow
 ## Git has powerful branching capabilities. To start work, developers have to first create a unique branch. Each branch functions in an isolated environment while changes are carried out in the codebase. This ensures that the master branch always supports production-quality code.
 ![pic](https://quickscrum.com/Images/article_detail/gitlab-feature-branch-workflow.png)
+# 2. Distributed development 
+## Since Git is a distributed VCS it offers a local repository to each developer with its own history of commits. Therefore, you don't require a network connection to create commits, inspect previous file versions, or check differences between two or more commits. Also, it’s much easier to scale the team. 
+![pic](https://quickscrum.com/Images/article_detail/gitlab-distributed-development.png)
+# 3. Pull requests
+## A developer calls a pull request to ask another developer to merge one of his/her branches into the other's repository. Besides making it a lot easier for project leaders to monitor and track code changes, "pulling" also facilitates other developers to discuss their work before integrating the code with the codebase.
+![pic](https://quickscrum.com/Images/article_detail/gitlab-pull-requests.png)
+# 4. Community
+## Git is very popular, widely used, and accepted as standard version control system by the vast majority within the developer's community. It's much easier to leverage 3rd-party libraries and encourage other developers to fork your open source code using Git. The sheer number of Git users make it easy to resolve issues and seek outside help using online forums.
+![pic](https://quickscrum.com/Images/article_detail/gitlab-community.png)
