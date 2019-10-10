@@ -29,3 +29,5 @@
 # Remote Add / Remove / Show
 ## This is the version of something that is hosted on a server, most likely GitHub. It can be connected to local clones so that changes can be synced.
 # Status
+## A status is a type of status check on GitHub.Status checks are external processes, such as continuous integration builds, which run for each commit you make in a repository. 
+# Master branch
