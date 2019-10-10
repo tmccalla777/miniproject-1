@@ -8,3 +8,10 @@
 5. When the release branch is done it is merged into developand master
 6. If an issue in master is detected a hotfix branch is created from master
 6. Once the hotfix is complete it is merged to both develop and master
+# Repository
+## A digital directory or storage space where you can access your project, its files, and all the versions of its files that Git saves.
+# Clone 
+## A clone is simply a copy of a repository.
+# Fork
+## A fork is a copy of a project folder (repository) into your login or onto your desktop if you use Github on your Desktop.
+# Branch
