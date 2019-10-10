@@ -11,6 +11,6 @@
 ## Quality open source project - Git is a widely supported open source project with over ten years of operational history. People maintaining the project are very well matured and possess a long term vision to meet the long term needs of users by releasing staged upgrades at regular intervals of time to improve functionality as well as usability.
 # Why use Git ?
 ## If your business depends heavily upon IT and software processes, or you're a software development entity, Git radically changes the way how your team will create and deliver work to you. Various processes including designing, development, product management, marketing, customer support can be easily handled and maintained using Git in your organization.
-1. Feature branch workflow
+# 1. Feature branch workflow
 ## Git has powerful branching capabilities. To start work, developers have to first create a unique branch. Each branch functions in an isolated environment while changes are carried out in the codebase. This ensures that the master branch always supports production-quality code.
 https://quickscrum.com/Images/article_detail/gitlab-feature-branch-workflow.png
