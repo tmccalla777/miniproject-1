@@ -31,3 +31,4 @@
 # Status
 ## A status is a type of status check on GitHub.Status checks are external processes, such as continuous integration builds, which run for each commit you make in a repository. 
 # Master branch
+## The default development branch. Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. In most cases, this contains the local development, though that is purely by convention and is not required.
