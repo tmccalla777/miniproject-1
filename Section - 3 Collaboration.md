@@ -18,7 +18,7 @@ This is a guide on how to set up Git so it can be used to work collaboratively w
 Forking a repository is essentially creating a linked copy of a repo where you can make whatever changes you wish without having any effect on the original project. Once you make changes to your *forked* version of the repository, you can then submit a pull request which will allow you to contribute your proposed changes to the original project. A forked copy has a real connection to its original repo as opposed to a cloned copy.
 
 ###Cloning
-
+Cloning a repository is like downloading an offline copy of the project that is not connected to the original in any way. You are downloading a specific iteration of the repository at a specific point in time and that is your local copy. When you make changes to this clone, you can then push the changes back to the original project, but only if you are added as an official contributor by the creator of the repository.
 
 ##2. Pull Request
 
