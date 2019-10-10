@@ -13,4 +13,4 @@
 ## If your business depends heavily upon IT and software processes, or you're a software development entity, Git radically changes the way how your team will create and deliver work to you. Various processes including designing, development, product management, marketing, customer support can be easily handled and maintained using Git in your organization.
 # 1. Feature branch workflow
 ## Git has powerful branching capabilities. To start work, developers have to first create a unique branch. Each branch functions in an isolated environment while changes are carried out in the codebase. This ensures that the master branch always supports production-quality code.
-https://quickscrum.com/Images/article_detail/gitlab-feature-branch-workflow.png
+[Link](https://quickscrum.com/Images/article_detail/gitlab-feature-branch-workflow.png)
