@@ -15,3 +15,7 @@
 # Fork
 ## A fork is a copy of a project folder (repository) into your login or onto your desktop if you use Github on your Desktop.
 # Branch
+## A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. 
+# Commit
+## A commit, or "revision", is an individual change to a file (or set of files).
+# Merge
