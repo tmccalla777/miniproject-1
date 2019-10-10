@@ -18,6 +18,6 @@
 - *Source 3*
 
 ### Section 4 - Improving the productivity and competitiveness of a company - [Link]()
-- *Source 1*
-- *Source 2*
+- *Source 1* https://www.quickscrum.com/Article/ArticleDetails/5181/1/What-is-Git-What-benefits-does-Git-offer
+- *Source 2* https://www.insightssuccess.com/docker-revolutionizing-container-management-and-helping-businesses-improve-efficiency/
 - *Source 3*
