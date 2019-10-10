@@ -27,3 +27,5 @@
 # Pull
 ## Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date.
 # Remote Add / Remove / Show
+## This is the version of something that is hosted on a server, most likely GitHub. It can be connected to local clones so that changes can be synced.
+# Status
