@@ -21,6 +21,7 @@ Forking a repository is essentially creating a linked copy of a repo where you c
 Cloning a repository is like downloading an offline copy of the project that is not connected to the original in any way. You are downloading a specific iteration of the repository at a specific point in time and that is your local copy. When you make changes to this clone, you can then push the changes back to the original project, but only if you are added as an official contributor by the creator of the repository.
 
 ##2. Pull Request
-
+A pull request is how a contributor can share his changes to a repository with the rest of the group and to discuss what parts should be kept and added to the main repository and what should be discarded. This is a good way for the whole team to review the propose changes of a contributor and discuss how to proceed.
 
 ##3. Adding a Collaborator to a GitHub Repository
+Adding a collaborator to a GitHub repository is the way to work with cloning. Since cloning creates a disconnected copy of the repository on the contributor's local computer, they will need a way to upload any changed they make to the original repository. By adding an authorized person as a contributor, the creator of the project gives permission to another person to push commits to the repository.

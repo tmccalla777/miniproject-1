@@ -1,9 +1,9 @@
 # Welcome to Miniproject-1 Fall 2019 :wave:
 ## Group Members
-### Tej Ranu 
-### Daniel Zehirov 
-### David Tchintchin 
-# Section - 1 Command - David Tchintchin 
+### Tej Ranu
+### Daniel Zehirov
+### David Tchintchin
+# Section - 1 Command - David Tchintchin
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%201%20-%20Command.md):point_left:
 
   Section that explains commands and gives example(s) usage for use Vi (Links to an external site.) to create and edit files on Linux and the basic commands that you need to manage the file system:
@@ -20,7 +20,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 8. Home directory and file paths in linux
 9. Using the tab key to complete file paths
 10. Using up and down arrow for history
-# Section - 2 Gitflow and Workflow - Tej Ranu 
+# Section - 2 Gitflow and Workflow - Tej Ranu
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%202%20Gitflow%20and%20Workflow.md) :point_left:
 
 Explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
@@ -33,11 +33,11 @@ Explain the gitFlow (Links to an external site.) workflow and have a section to 
 6. Merge
 7. Checkout
 8. Push
-9. Pull 
+9. Pull
 10. Remote Add / Remove / Show
 11. Status
 12. Master Branch
-# Section - 3 Collaboration - Daniek Zehirov 
+# Section - 3 Collaboration - Daniek Zehirov
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration.md) :point_left:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.   
@@ -57,11 +57,11 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 - Tej Ranu created new repository
 - Tej Ranu created Section 1,2,3,4 and 5.
 - Tej Ranu uploaded Miniproject 1 image.
-- Tej Ranu created readme-edit branch 
+- Tej Ranu created readme-edit branch
 - David Tchintchin created new branch
 - David Tchintchin created Section 1
 - David Tchintchin requested a pull
-- Daniek Zehirov created section 3
+- Daniel Zehirov created section 3
 
-# MiniProject-1 Image 
+# MiniProject-1 Image
 [Link](https://github.com/tejranu/miniproject-1/blob/master/Image/Annotation%202019-10-09%20194707.png) :point_left:
