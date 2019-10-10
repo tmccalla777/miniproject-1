@@ -19,3 +19,5 @@
 # Commit
 ## A commit, or "revision", is an individual change to a file (or set of files).
 # Merge
+## Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. 
+# Checkout
