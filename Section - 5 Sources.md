@@ -10,6 +10,7 @@
 - *Source 1* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - *Source 2* https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html
 - *Source 3* https://help.github.com/en/articles/github-glossary#status-checks
+- *Source 4* https://medium.com/@devmrin/learn-complete-gitflow-workflow-basics-how-to-from-start-to-finish-8756ad5b7394
 
 ### Section 3 - Collaboration - [Link](https://github.com/tejranu/miniproject-1/blob/master/Section%20-%203%20Collaboration.md)
 - [*Source 1*](https://guides.github.com/introduction/git-handbook/)
